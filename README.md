@@ -12,6 +12,6 @@ you can fork if you want and make some changes would luv that js mak sur to @ me
 
 literally just send request to github link from your part to run the script. 
 
-# optionala
+# optional
 
 p2p or local host u can make it urself and send a request with your info if u want to idrc 
